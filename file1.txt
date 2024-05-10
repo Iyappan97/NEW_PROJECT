@@ -1,3 +1,4 @@
 
 hello from file1
 this is first changes to the file
+stashing changes demo
